@@ -25,16 +25,15 @@ cd cloud-forensics-xgb
 
 pip install -r requirements.txt
 
-Run the notebook:
+Run the notebook:<br>
 Follow the steps in the notebook to preprocess the data, train the XGBoost model, evaluate its performance, and visualize the results.
 
-Contents:
-
-Data Preprocessing: Steps to clean and prepare the data for modeling.
-Feature Engineering: Techniques to create new features that enhance model performance.
-Model Training: Training the XGBoost model on the prepared dataset.
-Model Evaluation: Evaluating the performance of the trained model using various metrics.
-Visualization: Visualizing the results to gain insights from the model.
+Contents:<br>
+_Data Preprocessing_: Steps to clean and prepare the data for modeling.<br>
+_Feature Engineering_: Techniques to create new features that enhance model performance.<br>
+_Model Training_: Training the XGBoost model on the prepared dataset.<br>
+_Model Evaluation_: Evaluating the performance of the trained model using various metrics.<br>
+_Visualization_: Visualizing the results to gain insights from the model.<br>
 
 
 ## License
